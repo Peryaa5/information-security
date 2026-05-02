@@ -7,3 +7,7 @@
 ### 1. Разграничение доступа в локальной сети: VLAN, ACL, NAT
 
 [Открыть проект](packet-tracer-vlan-acl-access-control/)
+
+### 2. Настройка сетевых служб: DHCP, DNS, HTTP, FTP
+
+[Открыть проект](packet-tracer-network-services/)
